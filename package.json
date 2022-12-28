@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "jsdom": "^20.0.3"
+  },
+  "name": "brad",
+  "version": "1.0.0",
+  "description": "multifunctional discord bot analyzing text channels",
+  "main": ".",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowin20/brad.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "linguistics",
+    "analysis",
+    "compling"
+  ],
+  "author": "George Owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowin20/brad/issues"
+  },
+  "homepage": "https://github.com/gowin20/brad#readme"
+}

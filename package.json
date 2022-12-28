@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
     "jsdom": "^20.0.3"
   },
   "name": "brad",
   "version": "1.0.0",
   "description": "multifunctional discord bot analyzing text channels",
-  "main": ".",
-  "devDependencies": {},
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
@@ -26,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/gowin20/brad/issues"
   },
-  "homepage": "https://github.com/gowin20/brad#readme"
+  "homepage": "https://github.com/gowin20/brad#readme",
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
 }

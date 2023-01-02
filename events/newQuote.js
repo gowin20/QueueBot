@@ -1,0 +1,1 @@
+// parse new quote message sent to quotes channel
